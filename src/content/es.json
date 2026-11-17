@@ -1,0 +1,170 @@
+{
+  "lang": "es",
+  "locale": "es_US",
+  "home_path": "/",
+  "other_lang": "en",
+  "other_lang_label": "EN",
+  "other_lang_name": "English",
+  "privacy_path": "/privacidad/",
+  "accessibility_path": "/accesibilidad/",
+  "title": "Carril Diamante · Carreras de caballos en Hudson, Colorado",
+  "description": "Carreras parejeras y abiertas en una pista de seis carriles en Hudson, Colorado. Inscribe tu caballo por WhatsApp, teléfono o correo.",
+  "skip": "Saltar al contenido",
+  "nav_label": "Principal",
+  "nav": [
+    [
+      "#carreras",
+      "Carreras"
+    ],
+    [
+      "#pista",
+      "La pista"
+    ],
+    [
+      "#galeria",
+      "Galería"
+    ],
+    [
+      "#inscripcion",
+      "Inscripción"
+    ]
+  ],
+  "nav_cta": "Inscríbete",
+  "menu_open": "Abrir menú",
+  "menu_close": "Cerrar menú",
+  "lang_switch_label": "Ver en inglés",
+  "home_label": "Carril Diamante, inicio",
+  "hero_eyebrow": "Hudson, Colorado · Carreras de caballos",
+  "hero_h1_a": "Trescientas yardas.",
+  "hero_h1_b": "Un solo ganador.",
+  "hero_sub": "Carreras parejeras y abiertas en una pista de seis carriles, al noreste de Denver. Trae tu cuadra, o ven a ver quién llega primero.",
+  "hero_cta": "Inscribe tu caballo",
+  "hero_cta2": "Ver las carreras",
+  "video_label": "Video aéreo de una carrera en Carril Diamante",
+  "video_pause": "Pausar video",
+  "video_play": "Reproducir video",
+  "races_eyebrow": "Las carreras",
+  "races_h2_a": "Cómo se corre aquí",
+  "races_h2_b": "",
+  "races": [
+    {
+      "n": "01",
+      "title": "Carreras Parejeras",
+      "img": "match-race",
+      "alt": "Dos caballos corren cabeza a cabeza levantando polvo en la pista",
+      "body": "Dos caballos, dos cuadras, frente a frente. La distancia y las condiciones se pactan entre los dueños, y se deciden en la pista."
+    },
+    {
+      "n": "02",
+      "title": "Carreras Abiertas",
+      "img": "open-race",
+      "alt": "Tres caballos con sus jinetes salen al galope hacia la cámara",
+      "body": "Varios caballos desde la misma salida, abiertas a las cuadras que se inscriban para el programa del día."
+    }
+  ],
+  "track_eyebrow": "La pista",
+  "track_h2_a": "La pista",
+  "track_h2_b": "",
+  "track_body": "Pista de tierra con cajones de salida de seis carriles y rieles blancos, con las Montañas Rocosas al fondo.",
+  "track_img_alt": "Seis caballos salen de los cajones numerados del uno al seis",
+  "facts": [
+    [
+      "6",
+      "carriles de salida"
+    ],
+    [
+      "250–300",
+      "yardas por carrera"
+    ]
+  ],
+  "gallery_eyebrow": "Galería",
+  "gallery_h2_a": "Fotos de días de carrera",
+  "gallery_h2_b": "",
+  "gallery_pause": "Pausar galería",
+  "gallery_play": "Mover galería",
+  "gallery": [
+    [
+      "g-dust-walk",
+      "Jinetes regresan a caballo entre el polvo"
+    ],
+    [
+      "g-blue-silks",
+      "Jinete con chaqueta azul junto a su caballo antes de la carrera"
+    ],
+    [
+      "g-rockies",
+      "Jinete y entrenador a caballo con las Rocosas nevadas al fondo"
+    ],
+    [
+      "g-two-turn",
+      "Dos caballos galopan junto al riel blanco"
+    ],
+    [
+      "g-pony-up",
+      "Jinete y acompañante caminan hacia la salida"
+    ],
+    [
+      "g-grey-chase",
+      "Un caballo alazán persigue a un caballo blanco en la recta"
+    ],
+    [
+      "g-field",
+      "Grupo de caballos en plena carrera frente al público"
+    ],
+    [
+      "g-finish-crowd",
+      "El público celebra mientras dos caballos cruzan la meta"
+    ],
+    [
+      "g-break",
+      "Caballos salen de los cajones en un día soleado"
+    ],
+    [
+      "g-late-sun",
+      "Un caballo corre solo por la recta final con el público al lado"
+    ]
+  ],
+  "reg_eyebrow": "Inscripción",
+  "reg_h2_a": "¿Quieres correr tu caballo?",
+  "reg_h2_b": "",
+  "reg_sub": "Las inscripciones se hacen directamente con nosotros. Escríbenos y te damos fecha, distancia y condiciones.",
+  "steps": [
+    [
+      "Escríbenos",
+      "Por WhatsApp, teléfono o correo."
+    ],
+    [
+      "Cuéntanos",
+      "Nombre de la cuadra, del caballo y el tipo de carrera."
+    ],
+    [
+      "Corre",
+      "Te confirmamos fecha, distancia y condiciones."
+    ]
+  ],
+  "btn_whatsapp": "Escribir por WhatsApp",
+  "btn_call": "Llamar",
+  "btn_email": "Enviar correo",
+  "whatsapp_text": "Hola Carril Diamante, quiero inscribir un caballo.",
+  "email_subject": "Inscripción de caballo",
+  "where_label": "Dónde",
+  "maps_link": "Abrir en Google Maps",
+  "new_tab": "(se abre en una pestaña nueva)",
+  "footer_nav": "Navegación",
+  "footer_contact": "Contacto",
+  "footer_legal": "Legal",
+  "privacy": "Privacidad",
+  "accessibility": "Accesibilidad",
+  "cookie_settings": "Preferencias de cookies",
+  "rights": "Todos los derechos reservados.",
+  "consent_title": "¿Nos ayudas a mejorar el sitio?",
+  "consent_body": "Con tu permiso usamos Google Analytics para contar visitas. No lo cargamos hasta que aceptes.",
+  "consent_accept": "Aceptar",
+  "consent_reject": "Rechazar",
+  "consent_more": "Más información",
+  "notfound_title": "Página no encontrada · Carril Diamante",
+  "notfound_h1": "Esta página se salió del carril.",
+  "notfound_body": "No encontramos lo que buscabas.",
+  "notfound_link": "Volver al inicio",
+  "fb_dates": "Fechas y avisos en Facebook"
+}

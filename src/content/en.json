@@ -1,0 +1,172 @@
+{
+  "lang": "en",
+  "locale": "en_US",
+  "home_path": "/en/",
+  "other_lang": "es",
+  "other_lang_label": "ES",
+  "other_lang_name": "Español",
+  "privacy_path": "/en/privacy/",
+  "accessibility_path": "/en/accessibility/",
+  "title": "Carril Diamante · Horse racing in Hudson, Colorado",
+  "description": "Match races and open races on a six-lane track in Hudson, Colorado. Enter your horse by WhatsApp, phone or email.",
+  "skip": "Skip to content",
+  "nav_label": "Main",
+  "nav": [
+    [
+      "#races",
+      "Races"
+    ],
+    [
+      "#track",
+      "The track"
+    ],
+    [
+      "#gallery",
+      "Gallery"
+    ],
+    [
+      "#enter",
+      "Enter"
+    ]
+  ],
+  "nav_cta": "Enter a horse",
+  "menu_open": "Open menu",
+  "menu_close": "Close menu",
+  "lang_switch_label": "Ver en español",
+  "home_label": "Carril Diamante, home",
+  "hero_eyebrow": "Hudson, Colorado · Horse racing",
+  "hero_h1_a": "Three hundred yards.",
+  "hero_h1_b": "One winner.",
+  "hero_sub": "Match races and open races on a six-lane track northeast of Denver. Bring your stable, or come see who gets there first.",
+  "hero_cta": "Enter your horse",
+  "hero_cta2": "See the races",
+  "video_label": "Aerial video of a race at Carril Diamante",
+  "video_pause": "Pause video",
+  "video_play": "Play video",
+  "races_eyebrow": "The races",
+  "races_h2_a": "How we race",
+  "races_h2_b": "",
+  "races": [
+    {
+      "n": "01",
+      "title": "Carreras Parejeras",
+      "sub": "Match races",
+      "img": "match-race",
+      "alt": "Two horses race head to head, kicking up dust on the track",
+      "body": "Two horses, two stables, head to head. Distance and terms are agreed between the owners, and settled on the track."
+    },
+    {
+      "n": "02",
+      "title": "Carreras Abiertas",
+      "sub": "Open races",
+      "img": "open-race",
+      "alt": "Three horses and riders gallop toward the camera",
+      "body": "Several horses from the same gate, open to every stable that enters for the day's card."
+    }
+  ],
+  "track_eyebrow": "The track",
+  "track_h2_a": "The track",
+  "track_h2_b": "",
+  "track_body": "A dirt track with a six-lane starting gate and white rails, with the Rocky Mountains in the distance.",
+  "track_img_alt": "Six horses break from starting stalls numbered one to six",
+  "facts": [
+    [
+      "6",
+      "starting lanes"
+    ],
+    [
+      "250–300",
+      "yards per race"
+    ]
+  ],
+  "gallery_eyebrow": "Gallery",
+  "gallery_h2_a": "Race day photos",
+  "gallery_h2_b": "",
+  "gallery_pause": "Pause gallery",
+  "gallery_play": "Play gallery",
+  "gallery": [
+    [
+      "g-dust-walk",
+      "Riders return on horseback through the dust"
+    ],
+    [
+      "g-blue-silks",
+      "A jockey in blue silks beside his horse before the race"
+    ],
+    [
+      "g-rockies",
+      "Jockey and trainer on horseback with the snowy Rockies behind"
+    ],
+    [
+      "g-two-turn",
+      "Two horses gallop along the white rail"
+    ],
+    [
+      "g-pony-up",
+      "A jockey and escort ride toward the gate"
+    ],
+    [
+      "g-grey-chase",
+      "A chestnut horse chases a white horse down the straight"
+    ],
+    [
+      "g-field",
+      "A field of horses at full speed in front of the crowd"
+    ],
+    [
+      "g-finish-crowd",
+      "The crowd cheers as two horses cross the finish"
+    ],
+    [
+      "g-break",
+      "Horses break from the gate on a sunny day"
+    ],
+    [
+      "g-late-sun",
+      "A horse runs the final straight with the crowd alongside"
+    ]
+  ],
+  "reg_eyebrow": "Enter",
+  "reg_h2_a": "Want to run your horse?",
+  "reg_h2_b": "",
+  "reg_sub": "Entries are made directly with us. Message us and we'll give you the date, distance and terms.",
+  "steps": [
+    [
+      "Message us",
+      "By WhatsApp, phone or email."
+    ],
+    [
+      "Tell us",
+      "Your stable's name, your horse's name and the type of race."
+    ],
+    [
+      "Race",
+      "We confirm the date, distance and terms."
+    ]
+  ],
+  "btn_whatsapp": "Message on WhatsApp",
+  "btn_call": "Call",
+  "btn_email": "Send an email",
+  "whatsapp_text": "Hi Carril Diamante, I'd like to enter a horse.",
+  "email_subject": "Horse entry",
+  "where_label": "Where",
+  "maps_link": "Open in Google Maps",
+  "new_tab": "(opens in a new tab)",
+  "footer_nav": "Navigate",
+  "footer_contact": "Contact",
+  "footer_legal": "Legal",
+  "privacy": "Privacy",
+  "accessibility": "Accessibility",
+  "cookie_settings": "Cookie settings",
+  "rights": "All rights reserved.",
+  "consent_title": "Help us improve the site?",
+  "consent_body": "With your permission we use Google Analytics to count visits. Nothing loads until you accept.",
+  "consent_accept": "Accept",
+  "consent_reject": "Reject",
+  "consent_more": "Learn more",
+  "notfound_title": "Page not found · Carril Diamante",
+  "notfound_h1": "This page ran off the track.",
+  "notfound_body": "We couldn't find what you were looking for.",
+  "notfound_link": "Back to home",
+  "fb_dates": "Dates and news on Facebook"
+}
